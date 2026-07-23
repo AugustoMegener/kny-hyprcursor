@@ -1,0 +1,11 @@
+resize_algorithm = none
+hotspot_x = 0.07
+hotspot_y = 0.03
+
+define_size = 0, left_ptr.svg
+
+define_override = arrow
+define_override = default
+define_override = top_left_arrow
+define_override = wayland-cursor
+define_override = X_cursor
